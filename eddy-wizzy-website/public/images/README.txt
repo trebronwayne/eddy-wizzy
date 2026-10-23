@@ -1,5 +1,7 @@
 PLACE CLIENT-APPROVED ASSETS HERE
 
+
+
 Suggested files:
 - eddy-hero.jpg       Main artist portrait (portrait/vertical crop works best)
 - eddy-about.jpg      Second portrait for the About section
